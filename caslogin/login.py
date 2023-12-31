@@ -31,4 +31,4 @@ def login(url_cas,headers,username,password):
             "_eventId":eventId,
         }
 
-        return session.post(url=url_cas,headers=headers,data=data)
+        return session.post(url=url_cas,headers=headers,data=data),session

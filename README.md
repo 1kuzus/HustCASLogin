@@ -1,3 +1,9 @@
+# HustCASLogin
+`华中科技大学统一身份认证登录接口`
+
+## 快速开始
+```
+# demo.py
 from caslogin import login
 
 headers={
@@ -14,3 +20,8 @@ resp_login,session=login(
 )
 print(resp_login.status_code)
 print(resp_login.url)
+
+```
+
+
+**1kuzus**
