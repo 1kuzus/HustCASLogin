@@ -1,3 +1,7 @@
 /caslogin/jsencrypt/bin/* linguist-vendored
+/caslogin/jsencrypt/lib/lib/asn1js/* linguist-vendored
+/caslogin/jsencrypt/lib/lib/jsbn/* linguist-vendored
+/caslogin/jsencrypt/lib/lib/jsrassign/* linguist-vendored
+/caslogin/jsencrypt/lib/lib/* linguist-vendored
 /caslogin/jsencrypt/lib/* linguist-vendored
 /caslogin/jsencrypt/* linguist-vendored
