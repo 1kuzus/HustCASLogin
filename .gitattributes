@@ -1,3 +1,1 @@
-# /caslogin/jsencrypt/bin/* linguist-vendored
-# /caslogin/jsencrypt/lib/* linguist-vendored
-/caslogin/jsencrypt/* linguist-vendored
+/caslogin/jsencrypt/ linguist-vendored
