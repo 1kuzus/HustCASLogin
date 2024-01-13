@@ -1,6 +1,12 @@
 # HustCASLogin
 `华中科技大学统一身份认证登录接口`
 
+## 准备
+```
+git clone https://github.com/1kuzus/HustCASLogin.git
+pip install requests pyexecjs ddddocr lxml
+```
+
 ## 快速开始
 ```
 # demo.py
