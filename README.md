@@ -2,7 +2,7 @@
 `华中科技大学统一身份认证登录接口`
 
 ## 准备
-```bash
+```
 git clone https://github.com/1kuzus/HustCASLogin.git
 pip install requests pyexecjs ddddocr lxml
 ```
@@ -28,5 +28,6 @@ print(resp_login.status_code)
 print(resp_login.url)
 ```
 
+<br/>
 
 **1kuzus**
