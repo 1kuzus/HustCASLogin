@@ -18,7 +18,7 @@ def ocr(code_gif_bin):
     add = numpy.where(add < 70, 0, 255)  # 二值化
 
     # 过滤图像中的细边
-    flt = numpy.array([[1, 1, 1], [1, 0, 1], [1, 1, 1]])  # 过滤图像中的细边
+    flt = numpy.array([[1, 1, 1], [1, 0, 1], [1, 1, 1]])
     for h in range(1, add.shape[0] - 1):
         for w in range(1, add.shape[1] - 1):
             if add[h][w] == 255:
