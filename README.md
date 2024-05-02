@@ -1,6 +1,9 @@
 # HustCASLogin
 `华中科技大学统一身份认证登录接口`
 
+## 分析过程
+[https://1kuzus.github.io/hust-cas-login/](这篇博客)记录了详细的分析过程。
+
 ## 准备
 ```
 git clone https://github.com/1kuzus/HustCASLogin.git
